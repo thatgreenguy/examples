@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=basicsample
+GenericName=Sample app for learning Vala
+Comment=Sample app for learning Vala
+Type=Application
+Exec=basicsample %U
+TryExec=basicsample
+Icon=basicsample
+Categories=Sample;
+
