@@ -23,17 +23,19 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=533;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Faboutdialog.vala;0;4
+current_page=2
+FILE_NAME_0=90;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fbasicsample.vala;0;4
+FILE_NAME_1=0;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fswitch.vala;0;4
+FILE_NAME_2=128;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fabout.vala;0;4
 
 [VTE]
 last_dir=/home/paul
 
 [build-menu]
 ValaFT_00_LB=_Compile
-ValaFT_00_CM=valac --pkg gtk+-3.0 -c "%f"
+ValaFT_00_CM=valac --pkg gtk+-3.0 -c "%f" 
 ValaFT_00_WD=
 ValaFT_01_LB=_Build
-ValaFT_01_CM=valac --pkg gtk+-3.0 "%f"
+ValaFT_01_CM=valac --pkg gtk+-3.0 "%f" -d bin
 ValaFT_01_WD=
 filetypes=Vala;

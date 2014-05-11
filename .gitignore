@@ -1,0 +1,7 @@
+# Binaries compiled to /bin - ignore directory
+/bin
+
+# Ignore vala.o files
+*.[o]
+
+
