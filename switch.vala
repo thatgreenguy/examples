@@ -2,6 +2,7 @@
 
 public class Application : Gtk.Window {
 	public Application () {
+		
 		// Prepare Gtk.Window:
 		this.title = "My Gtk.Switch";
 		this.window_position = Gtk.WindowPosition.CENTER;
