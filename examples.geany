@@ -23,10 +23,11 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=2
-FILE_NAME_0=90;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fbasicsample.vala;0;4
-FILE_NAME_1=0;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fswitch.vala;0;4
-FILE_NAME_2=128;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fabout.vala;0;4
+current_page=3
+FILE_NAME_0=0;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fstatusbar.vala;0;4
+FILE_NAME_1=3865;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Ftray.vala;0;4
+FILE_NAME_2=9;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Ffirst.vala;0;4
+FILE_NAME_3=2674;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fsimple.vala;0;4
 
 [VTE]
 last_dir=/home/paul
@@ -39,3 +40,6 @@ ValaFT_01_LB=_Build
 ValaFT_01_CM=valac --pkg gtk+-3.0 "%f" -d bin
 ValaFT_01_WD=
 filetypes=Vala;
+EX_00_LB=_Execute
+EX_00_CM=./bin/"%e"
+EX_00_WD=
