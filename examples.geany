@@ -23,11 +23,13 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=3
+current_page=5
 FILE_NAME_0=0;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fstatusbar.vala;0;4
 FILE_NAME_1=3865;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Ftray.vala;0;4
 FILE_NAME_2=9;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Ffirst.vala;0;4
 FILE_NAME_3=2674;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fsimple.vala;0;4
+FILE_NAME_4=1154;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fhelloworld.vala;0;4
+FILE_NAME_5=710;Vala;0;EUTF-8;1;1;0;%2Fhome%2Fpaul%2Fprojects%2Fvala%2Fexamples%2Fdrawit.vala;0;4
 
 [VTE]
 last_dir=/home/paul
